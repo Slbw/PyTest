@@ -5,3 +5,10 @@ if True:
 	print "true"
 else:
 	print "false"
+	
+	
+# \ 符号代表单行语句分行写
+total=1+\
+2+\
+3
+print total
